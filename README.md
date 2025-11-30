@@ -12,7 +12,7 @@ Includes requirements, business rules, test cases, RTM, UAT, defect log, Python 
 ├── code/
 │   ├── crowd_overcrowding_detection_yolo_colab.py
 │   ├── requirements.txt
-│   └── (optional) notebook.ipynb
+│   
 │
 ├── docs/
 │   ├── YOLO Overcrowding Detection – Requirements Specification.docx

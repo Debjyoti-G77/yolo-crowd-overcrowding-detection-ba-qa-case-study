@@ -1,7 +1,7 @@
 # YOLO Overcrowding Detection — Business Analysis & QA Case Study
 
 A complete **Business Analysis + QA** case study with a working **YOLOv8-based overcrowding detection system**.  
-Includes requirements, business rules, test cases, RTM, UAT, defect log, Python code, and demo outputs.
+Includes requirements, business rules, test cases, UAT, defect log, Python code, and demo outputs.
 
 ---
 
